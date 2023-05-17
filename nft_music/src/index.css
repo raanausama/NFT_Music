@@ -1,0 +1,13 @@
+body {
+  margin:0 !important;
+  width:fit-content;
+  background: rgb(168,6,255);
+  background: linear-gradient(246deg, rgba(168,6,255,1) 8%, rgba(168,6,255,1) 21%, rgba(2,1,9,1) 49%);
+
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

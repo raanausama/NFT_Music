@@ -1,0 +1,8 @@
+.buttonback{
+   background:  linear-gradient(99.74deg, #06DBAC 5.23%, #BD00FF 92.7%);
+}
+.background{
+margin:0 !important;
+background: rgb(168,6,255);
+background: linear-gradient(246deg, rgba(168,6,255,1) 2%, rgba(194,6,255,1) 13%, rgba(185,6,255,1) 21%, rgba(2,1,9,1) 49%);
+}

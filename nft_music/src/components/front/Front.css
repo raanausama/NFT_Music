@@ -1,0 +1,92 @@
+.Appbar{
+background-color: transparent !important;
+
+background: rgba(255, 255, 255, 0.1);
+backdrop-filter: blur(25px);
+
+border: 1px solid #FFFFFF
+
+}
+
+
+
+.AppBarMarketplace{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.AppBarAbout{
+    position: absolute;
+width: 56px;
+height: 19px;
+left: 674px;
+top: 28px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.AppBarResources{
+    position: absolute;
+width: 96px;
+height: 19px;
+left: 782px;
+top: 28px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.AppBarFAQ{
+    position: absolute;
+width: 31px;
+height: 19px;
+left: 930px;
+top: 28px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.AppBarLeftText{
+    position: absolute;
+width: 125px;
+height: 48px;
+left: 63px;
+top: 9px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+
+
